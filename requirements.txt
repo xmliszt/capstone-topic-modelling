@@ -44,6 +44,7 @@ Markdown==3.3.4
 MarkupSafe==1.1.1
 matplotlib==3.3.4
 msgpack==0.6.2
+networkx==2.5
 nltk==3.5
 numexpr==2.7.3
 numpy==1.19.5

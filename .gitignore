@@ -5,6 +5,7 @@ __pycache__/
 BBC*
 .vscode
 models
+data/
 
 # C extensions
 *.so
